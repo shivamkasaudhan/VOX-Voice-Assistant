@@ -22,9 +22,9 @@ The Vox Voice Assistant offers several features to enhance the user experience a
 
 ## Installation
 
-To set up the Vox Voice Assistant project on your local machine, follow these steps:
+To set up the Vox Voice Assistant project on your local machine:
 
-1. Clone the repository:
+ Clone the repository:
 
    ```bash
    git clone https://github.com/your-username/vox-voice-assistant.git
